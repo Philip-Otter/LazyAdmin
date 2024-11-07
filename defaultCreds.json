@@ -1,0 +1,204 @@
+
+[{"Brand":"3XLOGIC","Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"12345"}
+    ], "Default IP Address":"192.0.0.64"}
+]},
+{"Brand":"ACTI", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ], "Default IP Address":"192.168.0.100"}
+]},
+{"Brand":"American Dynamics", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ], "Default IP Address":"192.168.1.168"}
+]},
+{"Brand":"Aercont Vision", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin"}
+    ]}
+]},
+{"Brand":"Avigilon", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ]}
+]},
+{"Brand":"Axis", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"root"},
+        {"Username":"root","Password":"pass"}
+    ]}
+]},
+{"Brand":"Basler", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ], "Default IP Address":"192.168.100.x"}
+]},
+{"Brand":"Bosch", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"service", "Password":"service"},
+        {"Username":"admin"},
+        {"Username":"service"},
+        {"Username":"user"},
+        {"Username":"live"}
+    ], "Default IP Address":"192.168.0.1"},
+    {"Category Name":"DVR", "Credentials":[
+        {"Username":"ADMINISTRATOR", "Password":"000000"},
+        {"Username":"ADMINISTRATOR"},
+        {"Username":"Administrator"}
+    ]}
+]},
+{"Brand":"Brickcom", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ], "Default IP Address":"192.168.1.1"}
+]},
+{"Brand":"Cisco", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {}
+    ], "Default IP Address":"192.168.0.100"},
+    {"Category Name":"Network Switch", "Credentials":[
+        {"Username":"cisco","Password":"Cisco"},
+        {"Username":"admin"},
+        {"Username":"admin","Password":"admin"}
+    ]},
+    {"Category Name":"Network Router", "Credentials":[
+        {},
+        {"Username":"admin","Password":"admin"},
+        {"Username":"cisco","Password":"Cisco"}
+    ]}
+]},
+{"Brand":"CNB", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"root", "Password":"admin"}
+    ], "Default IP Address":"192.168.123.100"}
+]},
+{"Brand":"Costar", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"root", "Password":"root"}
+    ]}
+]},
+{"Brand":"Dahua", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ], "Default IP Address":"192.168.1.108"}
+]},
+{"Brand":"DVTel", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"Admin", "Password":"1234"}
+    ], "Default IP Address":"192.168.0.250"}
+]},
+{"Brand":"DynaColor", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"1234"}
+    ], "Default IP Address":"192.168.0.100"}
+]},
+{"Brand":"Flir", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"fliradmin"},
+        {"Username":"flir", "Password":"3vlig"},
+        {"Username":"flir", "Password":"1235"},
+        {"Username":"flir", "Password":"IRCAM"},
+        {"Username":"anonymous", "Password":"NcFTP@"},
+        {"Username":"fliruser", "Password":"3vlig"}
+    ], "Default IP Address":"192.168.250.116"},
+    {"Category Name":"Serial Camera", "Credentials":[
+        {"Username":"root", "Password":"indigo"}
+    ], "Baud Rate":"115200"},
+    {"Category Name":"MISC Credentials", "Credentials":[
+        {"Password":"www.flir.com"}
+    ]}
+]},
+{"Brand":"Foscam", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin"}
+    ]}
+]},
+{"Brand":"GVI", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"1234"}
+    ], "Default IP Address":"192.168.0.250"}
+]},
+{"Brand":"HIKVision", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"12345"}
+    ], "Default IP Address":"192.0.0.64"}
+]},
+{"Brand":"Honeywell", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"administrator", "Password":"1234"},
+        {"Username":"admin", "Password":"1234"},
+        {"Username":"admin", "Password":"admin"},
+        {"Username":"admin"}
+    ]},
+    {"Category Name":"Printer", "Credentials":[
+        {"Username":"itadmin", "Password":"pass"},
+        {"Username":"admin", "Password":"pass"}
+    ]}
+]},
+{"Brand":"Intermec", "Device Category":[
+    {"Category Name":"Printer", "Credentials":[
+        {"Username":"admin", "Password":"pass"},
+        {"Password":"intermec"}
+    ]}
+]},
+{"Brand":"Mobotix", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"meinsm"}
+    ]}
+]},
+{"Brand":"Panasonic", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"12345"},
+        {"Username":"admin1", "Password":"password"}
+    ], "Default IP Address":"192.168.0.253"}
+]},
+{"Brand":"Samsung", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"root", "Password":"4321"},
+        {"Username":"root", "Password":"admin"},
+        {"Username":"admin", "Password":"1111111"}
+    ], "Default IP Address":["192.168.0.200", "192.168.1.200"]}
+]},
+{"Brand":"Sentry360", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"1234"}
+    ], "Default IP Address":"192.168.0.250"}
+]},
+{"Brand":"Sony", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ], "Default IP Address":"192.168.0.100"}
+]},
+{"Brand":"Toshiba", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"root", "Password":"ikwb"}
+    ], "Default IP Address":"192.168.0.30"}
+]},
+{"Brand":"Trendnet", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ], "Default IP Address":"192.168.10.1"}
+]},
+{"Brand":"Ubiquiti", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"ubnt", "Password":"ubnt"}
+    ], "Default IP Address":"192.168.1.20"}
+]},
+{"Brand":"Vivotek", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"root"}
+    ]}
+]},
+{"Brand":"Linksys", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ]},
+    {"Category Name":"Network Router", "Credentials":[
+        {"Password":"admin"},
+        {},
+        {"Username":"admin", "Password":"admin"}
+    ]}
+]}
+]
