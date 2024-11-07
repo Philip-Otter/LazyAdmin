@@ -1,5 +1,5 @@
 # LazyAdmin
-LazyAdmin is an administrator's or technician's offline default credential lookup
+LazyAdmin is an administrator's or technician's offline default credential lookup tool
 
 ## Requires:
 Python 3.X
