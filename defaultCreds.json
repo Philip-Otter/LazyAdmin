@@ -200,5 +200,44 @@
         {},
         {"Username":"admin", "Password":"admin"}
     ]}
+]},
+{"Brand":"Netwave", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin"},
+        {"Username":"admin", "Password":"admin"}
+    ]}
+]},
+{"Brand":"Century Link", "Device Category":[
+    {"Category Name":"Network Router", "Credentials":[
+        {"Username":"admin", "Password":"admin"},
+        {"Username":"admin", "Password":"1234"},
+        {"Username":"admin", "Password":"-"},
+        {"Username":"-", "Password":"admin"},
+        {"Username":"-", "Password":"1234"},
+        {"Username":"-", "Password":"-"}
+    ], "Default IP Address":["192.168.0.1", "192.168.1.1", "192.168.1.2", "192.168.10.1"]}
+]},
+{"Brand":"Homebridge", "Device Category":[
+    {"Category Name":"Smart Hub", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ]}
+]},
+{"Brand":"MEGApix", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ], "Default IP Address":["192.168.1.123", "192.168.1.80", "192.168.226.201"]}
+]},
+{"Brand":"Canon", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"root", "Password":"Model Number of The Camera"}
+    ]}
+]},
+{"Brand":"D-Link", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin"}
+    ]},
+    {"Category Name":"Network Router", "Credentials":[
+        {"Username":"admin"}
+    ]}
 ]}
 ]
