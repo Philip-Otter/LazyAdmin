@@ -239,5 +239,30 @@
     {"Category Name":"Network Router", "Credentials":[
         {"Username":"admin"}
     ]}
+]},
+{"Brand":"Moxa", "Device Category":[
+    {"Category Name":"Network Switch", "Credentials":[
+        {"Username":"admin", "Password":"moxa"},
+        {"Username":"admin"}
+    ]},
+    {"Category Name":"Network Remote", "Credentials":[
+        {}
+    ], "Default IP Address":"192.168.127.254"}
+]},
+{"Brand":"SnapAV", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"IP Installer V3.0"}
+    ], "Default IP Address":"192.168.0.80"}
+]},
+{"Brand":"StarDot", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"admin"}
+    ]}
+]},
+{"Brand":"Xerox", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin", "Password":"1111"},
+        {"Username":"admin", "Password":"The Printer's Serial Number"}
+    ]}
 ]}
 ]
