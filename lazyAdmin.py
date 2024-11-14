@@ -3,6 +3,8 @@
 import json
 import argparse
 
+from urllib.request import urlretrieve
+
 class File:
     def __init__(self, fileName = "./defaultCreds.json"):
         self.name = fileName
@@ -87,7 +89,7 @@ class UI:
 
 def main():
     sourceFile = File()
-
+    updateLocation = "https://raw.githubusercontent.com/Philip-Otter/LazyAdmin/refs/heads/main/defaultCreds.json"
     msg = "lazyAdmin, a default credential tool by The  2xdropout"
     searchFilter = []
 
@@ -97,8 +99,12 @@ def main():
     parser.add_argument('-b', '--listBrands', action = 'store_true', help = "List device brands")
     parser.add_argument('-c', '--listCats', action = 'store_true', help = 'List device categories')
     parser.add_argument('-F', '--fileName', help = 'Set json source data file name')
+    parser.add_argument('-u', '--update', action = 'store_true', help='Pull down the latest data source file')
 
     args = parser.parse_args()
+
+    if(args.update == True):
+        urlretrieve(updateLocation, sourceFile.name)
 
     if(args.fileName != None):
         sourceFile.name = args.fileName
