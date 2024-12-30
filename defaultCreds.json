@@ -264,5 +264,11 @@
         {"Username":"admin", "Password":"1111"},
         {"Username":"admin", "Password":"The Printer's Serial Number"}
     ]}
-]}
+]},
+{"Brand":"Dahua", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin"},
+        {"Username":"admin", "Password":"admin"}
+    ]}
+]},
 ]
