@@ -271,4 +271,15 @@
         {"Username":"admin", "Password":"admin"}
     ]}
 ]},
+{"Brand":"Eaton", "Device Category":[
+    {"Category Name":"UPS", "Credentials":[
+        {"Username":"localadmin", "Password":"localadmin"}
+    ]}
+]},
+{"Brand":"Extron", "Device Category":[
+    {"Category Name":"Digital Panel", "Credentials":[
+        {"Username":"user"},
+        {"Username":"admin", "Password":"extron"}
+    ]}
+]},  
 ]
