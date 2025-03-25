@@ -281,5 +281,20 @@
         {"Username":"user"},
         {"Username":"admin", "Password":"extron"}
     ]}
+]},
+{"Brand":"Guard 1", "Device Category":[
+    {"Category Name":"Security - Time System", "Credentials":[
+        {"Username":"admin", "Password":"password"}
+    ]}
+]},
+{"Brand":"Reolink", "Device Category":[
+    {"Category Name":"IP Camera", "Credentials":[
+        {"Username":"admin"}
+    ]}
+]},
+{"Brand":"Restreamer", "Device Category":[
+    {"Category Name":"Video Streaming", "Credentials":[
+        {"Username":"admin", "Password":"datarhei"}
+    ]}
 ]}
 ]
