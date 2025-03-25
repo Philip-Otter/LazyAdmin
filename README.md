@@ -12,3 +12,4 @@ Python 3.X
 | -b | --listBrands | List all device brands in data source |
 | -c | --listCats | List all device categories in data source |
 | -F | --fileName | Select an alternative JSON file as the data source |
+| -u | --update | Pull down the latest data source file from this repository |
