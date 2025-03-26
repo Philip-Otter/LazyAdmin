@@ -296,5 +296,15 @@
     {"Category Name":"Video Streaming", "Credentials":[
         {"Username":"admin", "Password":"datarhei"}
     ]}
+]},
+{"Brand":"Lantronix", "Device Category":[
+    {"Category Name":"ICS", "Credentials":[
+        {"Username":"admin", "Password":"PASSWORD"}
+    ]}
+]},
+{"Brand":"Deluge", "Device Category":[
+    {"Category Name":"Torrent", "Credentials":[
+        {"Password":"deluge"}
+    ]}
 ]}
 ]
