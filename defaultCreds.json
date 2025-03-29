@@ -306,5 +306,15 @@
     {"Category Name":"Torrent", "Credentials":[
         {"Password":"deluge"}
     ]}
+]},
+{"Brand":"Schneider Electric", "Device Category":[
+    {"Category Name":"UPC", "Credentials":[
+        {"Username":"apcinfo", "Password":"apcinfo"},
+        {"Username":"apcsetup", "Password":"apcsetup"},
+        {"Username":"apcreset", "Password":"apc"},
+        {"Username":"apc", "Password":"apc"},
+        {"Username":"apcsetup", "Password":"apcsetup"},
+        {"Username":"apcreset", "Password":"apcreset"}
+    ]}
 ]}
 ]
